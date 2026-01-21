@@ -1,0 +1,3 @@
+[submodule "Exercises"]
+	path = Exercises
+	url = https://github.com/HAMm-CODE/TAU_Advanced_DL_Exercises.git
